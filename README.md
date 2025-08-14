@@ -10,19 +10,9 @@ This is a simple responsive website built with **HTML5** and **CSS3** using **Fl
 - Responsive header with logo and navigation links.
 - Hero section with heading, text, and a call-to-action button.
 - Footer with social media links.
-- Mobile-friendly menu toggle for smaller screens.
-
-## 🛠 How to Run
-1. Extract the ZIP file.
-2. Open a terminal inside the extracted folder.
-3. Run using `live-server`:
-   ```bash
-   live-server
-   ```
-4. Resize your browser window to see the responsive effect.
+- Mobile-friendly menu toggle for smaller screens
+   ``
 
 ## 📷 Screenshot
 ![Preview](https://via.placeholder.com/1200x600)
 
----
-© 2025 MyWebsite
